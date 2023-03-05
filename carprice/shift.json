@@ -1,0 +1,251 @@
+[
+  {
+    "details": {
+      "vin": "JHLRE48338C021324",
+      "description": "2008 Honda CR-V LX 4 Door SUV"
+    },
+    "source": "shift.com",
+    "firstname": "Tester",
+    "lastname": "Tester",
+    "email": "tester@gmail.com",
+    "phone_number": "2052030652",
+    "zip_code": "10006",
+    "mileage": "25000",
+    "trim": "gt-line-sedan-4d",
+    "year": 2018,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "Exterior Color": "Black",
+    "Body Style": "BLACK CONTRAST ROOF",
+    "Transmission": "9-Speed Automatic",
+    "DriveTrain": "Four Wheel Drive",
+    "Engine": "2L I-4 Turbocharged Gas",
+    "Select any additional features in your car": [
+      {
+        "description": "BLACK CONTRAST ROOF"
+      },
+      {
+        "description": "COLD CLIMATE CONVENIENCE PACKAGE",
+        "details": "Heated Windshield & Washer Jets, Heated Front & Rear Seats, Heated Steering Wheel"
+      },
+      {
+        "description": "INCONTROL TOUCH PRO TECH PACKAGE",
+        "details": "Powered Gesture Tailgate, Passive Entry, Radio: InControl Touch Pro w/Navigation, single slot CD player, USB, 380 watt Meridian 11 speaker sound system and subwoofer"
+      },
+      {
+        "description": "SIRIUSXM SATELLITE RADIO & HD RADIO"
+      }
+    ],
+    "Does your car have any issues that prevent it from starting or driving?": "No",
+    "Does your car have any mechanical issues or persistent dashboard warning lights?": "No",
+    "Does your car have any aftermarket modifications?": "No",
+    " Does your car have any persistent odors?": "No",
+    "Do you have a loan or lease on this vehicle?": "No",
+    "Do any of your vehicle\u2019s exterior panels have damage?": "No",
+    "Has your vehicle been in an accident?": "No",
+    "Does your vehicle have hail damage (or multiple ding/dents on horizontal panels)": "No",
+    "Do any of your interior panels have significant damage or missing parts": "No",
+    "Does the vehicle have front and back plates?": "Yes",
+    "price": 20500
+  }
+][
+  {
+    "details": {
+      "vin": "SALVP2RX1JH284344",
+      "description": "2018 Land Rover Range Rover Evoque 4 Door SUV"
+    },
+    "source": "shift.com",
+    "firstname": "Tester",
+    "lastname": "Tester",
+    "email": "tester@gmail.com",
+    "phone_number": "2052030652",
+    "zip_code": "60194",
+    "mileage": "19000",
+    "trim": "gt-line-sedan-4d",
+    "year": 2018,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "Exterior Color": "Black",
+    "Body Style": "BLACK CONTRAST ROOF",
+    "Transmission": "9-Speed Automatic",
+    "DriveTrain": "Four Wheel Drive",
+    "Engine": "2L I-4 Turbocharged Gas",
+    "Select any additional features in your car": [
+      {
+        "description": "BLACK CONTRAST ROOF"
+      },
+      {
+        "description": "COLD CLIMATE CONVENIENCE PACKAGE",
+        "details": "Heated Windshield & Washer Jets, Heated Front & Rear Seats, Heated Steering Wheel"
+      },
+      {
+        "description": "INCONTROL TOUCH PRO TECH PACKAGE",
+        "details": "Powered Gesture Tailgate, Passive Entry, Radio: InControl Touch Pro w/Navigation, single slot CD player, USB, 380 watt Meridian 11 speaker sound system and subwoofer"
+      },
+      {
+        "description": "SIRIUSXM SATELLITE RADIO & HD RADIO"
+      }
+    ],
+    "Does your car have any issues that prevent it from starting or driving?": "No",
+    "Does your car have any mechanical issues or persistent dashboard warning lights?": "No",
+    "Does your car have any aftermarket modifications?": "No",
+    " Does your car have any persistent odors?": "No",
+    "Do you have a loan or lease on this vehicle?": "No",
+    "Do any of your vehicle\u2019s exterior panels have damage?": "No",
+    "Has your vehicle been in an accident?": "No",
+    "Does your vehicle have hail damage (or multiple ding/dents on horizontal panels)": "No",
+    "Do any of your interior panels have significant damage or missing parts": "No",
+    "Does the vehicle have front and back plates?": "Yes",
+    "price": 20500
+  }
+][
+  {
+    "details": {
+      "vin": "SALVP2RX1JH284344",
+      "description": "2018 Land Rover Range Rover Evoque 4 Door SUV"
+    },
+    "source": "shift.com",
+    "firstname": "Tester",
+    "lastname": "Tester",
+    "email": "tester@gmail.com",
+    "phone_number": "2052030652",
+    "zip_code": "60194",
+    "mileage": "19000",
+    "trim": "SE",
+    "year": 2018,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "Exterior Color": "Black",
+    "Body Style": "BLACK CONTRAST ROOF",
+    "Transmission": "9-Speed Automatic",
+    "DriveTrain": "Four Wheel Drive",
+    "Engine": "2L I-4 Turbocharged Gas",
+    "Select any additional features in your car": [
+      {
+        "description": "BLACK CONTRAST ROOF"
+      },
+      {
+        "description": "COLD CLIMATE CONVENIENCE PACKAGE",
+        "details": "Heated Windshield & Washer Jets, Heated Front & Rear Seats, Heated Steering Wheel"
+      },
+      {
+        "description": "INCONTROL TOUCH PRO TECH PACKAGE",
+        "details": "Powered Gesture Tailgate, Passive Entry, Radio: InControl Touch Pro w/Navigation, single slot CD player, USB, 380 watt Meridian 11 speaker sound system and subwoofer"
+      },
+      {
+        "description": "SIRIUSXM SATELLITE RADIO & HD RADIO"
+      }
+    ],
+    "Does your car have any issues that prevent it from starting or driving?": "No",
+    "Does your car have any mechanical issues or persistent dashboard warning lights?": "No",
+    "Does your car have any aftermarket modifications?": "No",
+    " Does your car have any persistent odors?": "No",
+    "Do you have a loan or lease on this vehicle?": "No",
+    "Do any of your vehicle\u2019s exterior panels have damage?": "No",
+    "Has your vehicle been in an accident?": "No",
+    "Does your vehicle have hail damage (or multiple ding/dents on horizontal panels)": "No",
+    "Do any of your interior panels have significant damage or missing parts": "No",
+    "Does the vehicle have front and back plates?": "Yes",
+    "price": 20500
+  }
+][
+  {
+    "details": {
+      "vin": "SALVP2RX1JH284344",
+      "description": "2018 Land Rover Range Rover Evoque 4 Door SUV"
+    },
+    "source": "shift.com",
+    "firstname": "Tester",
+    "lastname": "Tester",
+    "email": "tester@gmail.com",
+    "phone_number": "2052030652",
+    "zip_code": "60194",
+    "mileage": "19000",
+    "trim": "SE",
+    "year": 2018,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "Exterior Color": "Black",
+    "Body Style": "BLACK CONTRAST ROOF",
+    "Transmission": "9-Speed Automatic",
+    "DriveTrain": "Four Wheel Drive",
+    "Engine": "2L I-4 Turbocharged Gas",
+    "Select any additional features in your car": [
+      {
+        "description": "BLACK CONTRAST ROOF"
+      },
+      {
+        "description": "COLD CLIMATE CONVENIENCE PACKAGE",
+        "details": "Heated Windshield & Washer Jets, Heated Front & Rear Seats, Heated Steering Wheel"
+      },
+      {
+        "description": "INCONTROL TOUCH PRO TECH PACKAGE",
+        "details": "Powered Gesture Tailgate, Passive Entry, Radio: InControl Touch Pro w/Navigation, single slot CD player, USB, 380 watt Meridian 11 speaker sound system and subwoofer"
+      },
+      {
+        "description": "SIRIUSXM SATELLITE RADIO & HD RADIO"
+      }
+    ],
+    "Does your car have any issues that prevent it from starting or driving?": "No",
+    "Does your car have any mechanical issues or persistent dashboard warning lights?": "No",
+    "Does your car have any aftermarket modifications?": "No",
+    " Does your car have any persistent odors?": "No",
+    "Do you have a loan or lease on this vehicle?": "No",
+    "Do any of your vehicle\u2019s exterior panels have damage?": "No",
+    "Has your vehicle been in an accident?": "No",
+    "Does your vehicle have hail damage (or multiple ding/dents on horizontal panels)": "No",
+    "Do any of your interior panels have significant damage or missing parts": "No",
+    "Does the vehicle have front and back plates?": "Yes",
+    "price": 20500
+  }
+][
+  {
+    "details": {
+      "vin": "JHLRE48338C021324",
+      "description": "2008 Honda CR-V LX 4 Door SUV"
+    },
+    "source": "shift.com",
+    "firstname": "Tester",
+    "lastname": "Tester",
+    "email": "tester@gmail.com",
+    "phone_number": "2052030652",
+    "zip_code": "10006",
+    "mileage": "25000",
+    "trim": "SE",
+    "year": 2018,
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "Exterior Color": "Black",
+    "Body Style": "BLACK CONTRAST ROOF",
+    "Transmission": "9-Speed Automatic",
+    "DriveTrain": "Four Wheel Drive",
+    "Engine": "2L I-4 Turbocharged Gas",
+    "Select any additional features in your car": [
+      {
+        "description": "BLACK CONTRAST ROOF"
+      },
+      {
+        "description": "COLD CLIMATE CONVENIENCE PACKAGE",
+        "details": "Heated Windshield & Washer Jets, Heated Front & Rear Seats, Heated Steering Wheel"
+      },
+      {
+        "description": "INCONTROL TOUCH PRO TECH PACKAGE",
+        "details": "Powered Gesture Tailgate, Passive Entry, Radio: InControl Touch Pro w/Navigation, single slot CD player, USB, 380 watt Meridian 11 speaker sound system and subwoofer"
+      },
+      {
+        "description": "SIRIUSXM SATELLITE RADIO & HD RADIO"
+      }
+    ],
+    "Does your car have any issues that prevent it from starting or driving?": "No",
+    "Does your car have any mechanical issues or persistent dashboard warning lights?": "No",
+    "Does your car have any aftermarket modifications?": "No",
+    " Does your car have any persistent odors?": "No",
+    "Do you have a loan or lease on this vehicle?": "No",
+    "Do any of your vehicle\u2019s exterior panels have damage?": "No",
+    "Has your vehicle been in an accident?": "No",
+    "Does your vehicle have hail damage (or multiple ding/dents on horizontal panels)": "No",
+    "Do any of your interior panels have significant damage or missing parts": "No",
+    "Does the vehicle have front and back plates?": "Yes",
+    "price": 20500
+  }
+]

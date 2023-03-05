@@ -1,0 +1,30 @@
+[
+    {
+        "firstname": "Tester",
+        "lastname": "Tester",
+        "email": "tester@gmail.com",
+        "phone_number": "3333333330",
+        "zip_code": "84542",
+        "mileage": "103000",
+        "year": 2015,
+        "make": "Ford",
+        "model": "F150",
+        "vin": "1FTEW1EG0FFA25695",
+        "selectedTrim": {
+            "vifnum": 10331,
+            "name": "King Ranch Supercrew 4WD",
+            "id": "2015300746"
+        },
+        "datetime": "2023-02-01 16:55:16",
+        "source": "Driveway",
+        "User give condition": "Moderate",
+        "What is the condition of the car?": "FAIR",
+        "Any active loan or lease on the car?": "NOT_PROVIDED",
+        "Has the car been in an accident?": "No",
+        "Are there active warning lights?": "No",
+        "Has the car been smoked in?": "No",
+        "How many keys are available?": 2,
+        "price": 14278,
+        "carfaxUrl": "https://www.carfaxonline.com/api/report?vin=1FTEW1EG0FFA25695"
+    }
+]

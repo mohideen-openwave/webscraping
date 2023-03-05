@@ -1,0 +1,346 @@
+{
+    "email": "asdfasd@ld.com",
+    "phone": "3333333330",
+    "firstName": "adsfsadfasdf",
+    "lastName": "asdfasdfasdf",
+    "location": {
+        "postalCode": "84542",
+        "distanceInMiles": 0,
+        "withinMarket": false
+    },
+    "inspectionPreferences": {
+        "location": null,
+        "contactPreference": "EMAIL"
+    },
+    "vehicle": {
+        "vin": "1FTEW1EG0FFA25695",
+        "year": 2015,
+        "make": "Ford",
+        "model": "F150",
+        "availableTrims": [],
+        "selectedTrim": {
+            "vifnum": 10331,
+            "name": "King Ranch Supercrew 4WD",
+            "id": "2015300746"
+        },
+        "selectedColor": {
+            "vifnum": 10331,
+            "code": "SZ",
+            "title": "Blue Flame Metallic",
+            "simpletitle": "Blue",
+            "rgb1": "10558E"
+        },
+        "options": [
+            {
+                "selected": false,
+                "name": "Navigation System"
+            },
+            {
+                "selected": false,
+                "name": "FX4 Off-Road Package"
+            },
+            {
+                "selected": false,
+                "name": "Chrome Package"
+            },
+            {
+                "selected": false,
+                "name": "20-Inch Wheels"
+            },
+            {
+                "selected": false,
+                "name": "Power Moonroof"
+            },
+            {
+                "selected": true,
+                "name": "3.5L V6 Ecoboost"
+            },
+            {
+                "selected": false,
+                "name": "Roush F-150"
+            },
+            {
+                "selected": false,
+                "name": "Roush F-150 SC"
+            }
+        ],
+        "availableColors": [
+            {
+                "vifnum": -1,
+                "code": "Black",
+                "title": "Black",
+                "simpletitle": "Black",
+                "rgb1": "2D2926"
+            },
+            {
+                "vifnum": -1,
+                "code": "White",
+                "title": "White",
+                "simpletitle": "White",
+                "rgb1": "FFFFFF"
+            },
+            {
+                "vifnum": -1,
+                "code": "Gray",
+                "title": "Gray",
+                "simpletitle": "Gray",
+                "rgb1": "989898"
+            },
+            {
+                "vifnum": -1,
+                "code": "Silver",
+                "title": "Silver",
+                "simpletitle": "Silver",
+                "rgb1": "DFE0DF"
+            },
+            {
+                "vifnum": -1,
+                "code": "Blue",
+                "title": "Blue",
+                "simpletitle": "Blue",
+                "rgb1": "4173AD"
+            },
+            {
+                "vifnum": -1,
+                "code": "Red",
+                "title": "Red",
+                "simpletitle": "Red",
+                "rgb1": "DA4548"
+            },
+            {
+                "vifnum": -1,
+                "code": "Brown",
+                "title": "Brown",
+                "simpletitle": "Brown",
+                "rgb1": "75523E"
+            },
+            {
+                "vifnum": -1,
+                "code": "Beige",
+                "title": "Beige",
+                "simpletitle": "Beige",
+                "rgb1": "CAB0A2"
+            },
+            {
+                "vifnum": -1,
+                "code": "Gold",
+                "title": "Gold",
+                "simpletitle": "Gold",
+                "rgb1": "C18F55"
+            },
+            {
+                "vifnum": -1,
+                "code": "Green",
+                "title": "Green",
+                "simpletitle": "Green",
+                "rgb1": "74885B"
+            },
+            {
+                "vifnum": -1,
+                "code": "Yellow",
+                "title": "Yellow",
+                "simpletitle": "Yellow",
+                "rgb1": "FDB853"
+            },
+            {
+                "vifnum": -1,
+                "code": "Orange",
+                "title": "Orange",
+                "simpletitle": "Orange",
+                "rgb1": "D87A3F"
+            },
+            {
+                "vifnum": -1,
+                "code": "Pink",
+                "title": "Pink",
+                "simpletitle": "Pink",
+                "rgb1": "F7B7B6"
+            },
+            {
+                "vifnum": -1,
+                "code": "Burgundy",
+                "title": "Burgundy",
+                "simpletitle": "Burgundy",
+                "rgb1": "771A17"
+            },
+            {
+                "vifnum": -1,
+                "code": "Bronze",
+                "title": "Bronze",
+                "simpletitle": "Bronze",
+                "rgb1": "A3492E"
+            },
+            {
+                "vifnum": -1,
+                "code": "Purple",
+                "title": "Purple",
+                "simpletitle": "Purple",
+                "rgb1": "6D4789"
+            },
+            {
+                "vifnum": -1,
+                "code": "Tan",
+                "title": "Tan",
+                "simpletitle": "Tan",
+                "rgb1": "BCB295"
+            },
+            {
+                "vifnum": -1,
+                "code": "Turquoise",
+                "title": "Turquoise",
+                "simpletitle": "Turquoise",
+                "rgb1": "53BBB2"
+            },
+            {
+                "vifnum": -1,
+                "code": "Other",
+                "title": "Other",
+                "simpletitle": "Other",
+                "rgb1": "FFFFFF"
+            }
+        ],
+        "imageUrl": "https://d2ivfcfbdvj3sm.cloudfront.net/6fd260a869c389e6f8668ba55dfb5f70ed0d4a500b163c8c88cc1df8abcb/color_0640_032_png/MY2015/10331/10331_cc0640_032_SZ.png",
+        "condition": {
+            "overallCondition": "FAIR",
+            "mileage": 103000,
+            "warningLights": false,
+            "accidents": false,
+            "smokedIn": false,
+            "activeLoans": null,
+            "activeFinance": {
+                "type": "NOT_PROVIDED",
+                "estimatedRemaining": 0,
+                "lenderId": ""
+            },
+            "numKeys": "MULTIPLE"
+        },
+        "alternatives": []
+    }
+}
+
+
+====offer response 
+
+{
+    "id" : "63d76b91972e2259793c4129",
+    "date" : null,
+    "lead" : {
+      "firstName" : "adsfsadfasdf",
+      "lastName" : "asdfasdfasdf",
+      "phone" : "3333333330",
+      "email" : "asdfasd@ld.com",
+      "location" : {
+        "postalCode" : "84542",
+        "distanceInMiles" : 0,
+        "withinMarket" : false
+      },
+      "inspectionPreferences" : {
+        "inspectionRequested" : false,
+        "location" : null,
+        "contactPreference" : "EMAIL"
+      },
+      "vehicle" : {
+        "year" : 2015,
+        "make" : "Ford",
+        "model" : "F150",
+        "vin" : "1FTEW1EG0FFA25695",
+        "imageUrl" : "https://d2ivfcfbdvj3sm.cloudfront.net/6fd260a869c389e6f8668ba55dfb5f70ed0d4a500b163c8c88cc1df8abcb/color_0640_032_png/MY2015/10331/10331_cc0640_032_SZ.png",
+        "selectedTrim" : {
+          "vifnum" : 10331,
+          "name" : "King Ranch Supercrew 4WD",
+          "id" : "2015300746"
+        },
+        "availableTrims" : [ ],
+        "selectedColor" : {
+          "vifnum" : 10331,
+          "code" : "SZ",
+          "title" : "Blue Flame Metallic",
+          "simpletitle" : "Blue",
+          "rgb1" : "10558E"
+        },
+        "options" : [ {
+          "selected" : false,
+          "name" : "Navigation System"
+        }, {
+          "selected" : false,
+          "name" : "FX4 Off-Road Package"
+        }, {
+          "selected" : false,
+          "name" : "Chrome Package"
+        }, {
+          "selected" : false,
+          "name" : "20-Inch Wheels"
+        }, {
+          "selected" : false,
+          "name" : "Power Moonroof"
+        }, {
+          "selected" : true,
+          "name" : "3.5L V6 Ecoboost"
+        }, {
+          "selected" : false,
+          "name" : "Roush F-150"
+        }, {
+          "selected" : false,
+          "name" : "Roush F-150 SC"
+        } ],
+        "condition" : {
+          "overallCondition" : "FAIR",
+          "mileage" : 103000,
+          "warningLights" : false,
+          "accidents" : false,
+          "smokedIn" : false,
+          "activeLoans" : null,
+          "activeFinance" : {
+            "type" : "NOT_PROVIDED",
+            "estimatedRemaining" : 0,
+            "lenderId" : "",
+            "payoffDetails" : null
+          },
+          "numKeys" : "MULTIPLE"
+        },
+        "alternatives" : [ ]
+      },
+      "offer" : {
+        "icoValue" : 14278,
+        "noPrice" : false,
+        "noPriceTriggers" : [ ],
+        "approverName" : "",
+        "approverNotes" : null,
+        "offerAmount" : 14278
+      },
+      "estimate" : null,
+      "carfaxUrl" : "https://www.carfaxonline.com/api/report?vin=1FTEW1EG0FFA25695"
+    },
+    "address" : null,
+    "service" : null,
+    "status" : "PENDING",
+    "saleType" : "SELL",
+    "userAction" : "NONE",
+    "valet" : null,
+    "finalOffer" : null,
+    "dealershipCode" : "cdjr-pocatello",
+    "paymentDetails" : {
+      "accountContactDetails" : {
+        "email" : "asdfasd@ld.com",
+        "phone" : "3333333330"
+      },
+      "activeLoanDetails" : {
+        "activeLoan" : false,
+        "payoffAmount" : 0
+      },
+      "enrollmentDetails" : {
+        "enrollmentSentDate" : null,
+        "enrollmentStatus" : "NOT_ENROLLED"
+      },
+      "approvalDetails" : {
+        "approved" : false,
+        "approvedBy" : ""
+      },
+      "preparationDetails" : {
+        "prepared" : false
+      },
+      "paymentType" : "NONE",
+      "sentPaymentDetails" : null,
+      "digitalPaymentEnabled" : false
+    }
+  }

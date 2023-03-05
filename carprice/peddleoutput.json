@@ -1,0 +1,18 @@
+[
+    {
+        "vin_number": "5YJYGDED2MF132752",
+        "condition": "0",
+        "mileage": "23118",
+        "zip_code": "77381",
+        "make": "TESLA",
+        "model": "Model Y",
+        "year": "2021",
+        "trim": null,
+        "body_type": "Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV)",
+        "transmission": null,
+        "engine": null,
+        "datetime": "2023-01-13 02:52:25",
+        "source": "Peddle",
+        "price": 19440
+    }
+]

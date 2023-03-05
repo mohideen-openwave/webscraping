@@ -1,0 +1,96 @@
+{
+    "auth_check": True,
+    "shell_exec_response": "None",
+    "command_string": "None",
+    "offer_data": {
+        "drivably_extra": {
+            "command_string": "None",
+            "command_response": "None"
+        },
+        "drivably": [
+            10525
+        ],
+        "market_value": {
+            "vin": "SALVP2RX1JH284344",
+            "success": True,
+            "id": "2018_land-rover_range-rover-evoque_se",
+            "vehicle": "2018 Land Rover Range Rover Evoque SE",
+            "mean": 35328.05,
+            "stdev": 4215,
+            "count": 2853,
+            "mileage": 35911,
+            "certainty": 99,
+            "period": [
+                "2021-05-03",
+                "2023-02-07"
+            ],
+            "prices": {
+                "average": 35328.05,
+                "below": 31112.11,
+                "above": 39543.99,
+                "distribution": [
+                    {
+                        "group": {
+                            "min": 18995,
+                            "max": 29900,
+                            "count": 286
+                        }
+                    },
+                    {
+                        "group": {
+                            "min": 29900,
+                            "max": 31998,
+                            "count": 285
+                        }
+                    },
+                    {
+                        "group": {
+                            "min": 31998,
+                            "max": 33889,
+                            "count": 285
+                        }
+                    },
+                    {
+                        "group": {
+                            "min": 33889,
+                            "max": 34980,
+                            "count": 286
+                        }
+                    },
+                    {
+                        "group": {
+                            "min": 34980,
+                            "max": 35890,
+                            "count": 285
+                        }
+                    },
+                    {"gr
+oup": {"min": 35890, "max": 36777, "count": 285}}, {"group": {"min": 36777, "max": 37619, "count": 286}}, {"group": {"min": 37619, "max": 38722, "count": 285
+                    }
+                },
+                {
+                    "group": {
+                        "min": 38722,
+                        "max": 39988,
+                        "count": 285
+                    }
+                },
+                {
+                    "group": {
+                        "min": 39988,
+                        "max": 53130,
+                        "count": 285
+                    }
+                }
+            ]
+        },
+        "adjustments": {
+            "mileage": {
+                "average": 35911.71,
+                "input": 35911.71,
+                "adjustment": 0
+            }
+        }
+    }
+}
+}

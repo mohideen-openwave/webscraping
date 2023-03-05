@@ -1,0 +1,635 @@
+{
+    "makeName": "Mercedes-Benz",
+    "makeNiceId": "mercedes-benz",
+    "modelName": "C-Class",
+    "modelNiceId": "c-class",
+    "year": 2018,
+    "styleId": 401729928,
+    "styleName": "C 300 4dr Sedan (2.0L 4cyl Turbo 9A)",
+    "trimName": "C 300"
+}
+
+======
+
+{
+    "makeName": "Mercedes-Benz",
+    "makeNiceId": "mercedes-benz",
+    "modelName": "C-Class",
+    "modelNiceId": "c-class",
+    "year": 2018,
+    "styleId": 401729928,
+    "styleName": "C 300 4dr Sedan (2.0L 4cyl Turbo 9A)",
+    "trimName": "C 300"
+}
+
+======
+
+{
+    "tmvconditions": {
+        "OUTSTANDING": {
+            "Current": {
+                "predictedChangeIndicator": 0,
+                "colorAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 0.0,
+                    "usedTmvRetail": 0.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 0.0,
+                    "baseInvoice": 0.0
+                },
+                "offerPrice": 0.0,
+                "conditionAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 1559.0,
+                    "usedTmvRetail": 1780.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 1341.0,
+                    "baseInvoice": 0.0
+                },
+                "mileageAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 593.0,
+                    "usedTmvRetail": 657.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 506.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 526.0,
+                    "baseInvoice": 0.0
+                },
+                "nationalBasePrice": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 23660.0,
+                    "usedTmvRetail": 26223.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20205.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 20993.0,
+                    "baseInvoice": 0.0
+                },
+                "regionalAdFee": 0.0,
+                "totalWithOptions": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 25605.0,
+                    "usedTmvRetail": 28431.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20535.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 22677.0,
+                    "baseInvoice": 0.0
+                },
+                "optionTMVPrices": {},
+                "destinationCharge": 0.0,
+                "predictedChange": 0.0,
+                "estimatedTmv": False,
+                "gasGuzzlerTax": 0.0,
+                "regionalAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": -207.0,
+                    "usedTmvRetail": -229.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": -176.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": -183.0,
+                    "baseInvoice": 0.0
+                },
+                "incentivesAndRebates": 0.0,
+                "certifiedUsedPrice": 30661.0
+            }
+        },
+        "CLEAN": {
+            "Current": {
+                "predictedChangeIndicator": 0,
+                "colorAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 0.0,
+                    "usedTmvRetail": 0.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 0.0,
+                    "baseInvoice": 0.0
+                },
+                "offerPrice": 0.0,
+                "conditionAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 974.0,
+                    "usedTmvRetail": 1113.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 838.0,
+                    "baseInvoice": 0.0
+                },
+                "mileageAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 593.0,
+                    "usedTmvRetail": 657.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 506.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 526.0,
+                    "baseInvoice": 0.0
+                },
+                "nationalBasePrice": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 23660.0,
+                    "usedTmvRetail": 26223.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20205.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 20993.0,
+                    "baseInvoice": 0.0
+                },
+                "regionalAdFee": 0.0,
+                "totalWithOptions": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 25020.0,
+                    "usedTmvRetail": 27764.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20535.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 22174.0,
+                    "baseInvoice": 0.0
+                },
+                "optionTMVPrices": {},
+                "destinationCharge": 0.0,
+                "predictedChange": 0.0,
+                "estimatedTmv": False,
+                "gasGuzzlerTax": 0.0,
+                "regionalAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": -207.0,
+                    "usedTmvRetail": -229.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": -176.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": -183.0,
+                    "baseInvoice": 0.0
+                },
+                "incentivesAndRebates": 0.0,
+                "certifiedUsedPrice": 29971.0
+            }
+        },
+        "AVERAGE": {
+            "Current": {
+                "predictedChangeIndicator": 0,
+                "colorAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 0.0,
+                    "usedTmvRetail": 0.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 0.0,
+                    "baseInvoice": 0.0
+                },
+                "offerPrice": 0.0,
+                "conditionAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 0.0,
+                    "usedTmvRetail": 0.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 0.0,
+                    "baseInvoice": 0.0
+                },
+                "mileageAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 593.0,
+                    "usedTmvRetail": 657.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 506.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 526.0,
+                    "baseInvoice": 0.0
+                },
+                "nationalBasePrice": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 23660.0,
+                    "usedTmvRetail": 26223.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20205.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 20993.0,
+                    "baseInvoice": 0.0
+                },
+                "regionalAdFee": 0.0,
+                "totalWithOptions": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 24046.0,
+                    "usedTmvRetail": 26651.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20535.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 21336.0,
+                    "baseInvoice": 0.0
+                },
+                "optionTMVPrices": {},
+                "destinationCharge": 0.0,
+                "predictedChange": 0.0,
+                "estimatedTmv": False,
+                "gasGuzzlerTax": 0.0,
+                "regionalAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": -207.0,
+                    "usedTmvRetail": -229.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": -176.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": -183.0,
+                    "baseInvoice": 0.0
+                },
+                "incentivesAndRebates": 0.0,
+                "certifiedUsedPrice": 0.0
+            }
+        },
+        "ROUGH": {
+            "Current": {
+                "predictedChangeIndicator": 0,
+                "colorAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 0.0,
+                    "usedTmvRetail": 0.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 0.0,
+                    "baseInvoice": 0.0
+                },
+                "offerPrice": 0.0,
+                "conditionAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": -1267.0,
+                    "usedTmvRetail": -1446.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 0.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": -1090.0,
+                    "baseInvoice": 0.0
+                },
+                "mileageAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 593.0,
+                    "usedTmvRetail": 657.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 506.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 526.0,
+                    "baseInvoice": 0.0
+                },
+                "nationalBasePrice": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 23660.0,
+                    "usedTmvRetail": 26223.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20205.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 20993.0,
+                    "baseInvoice": 0.0
+                },
+                "regionalAdFee": 0.0,
+                "totalWithOptions": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": 22779.0,
+                    "usedTmvRetail": 25204.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": 20535.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": 20246.0,
+                    "baseInvoice": 0.0
+                },
+                "optionTMVPrices": {},
+                "destinationCharge": 0.0,
+                "predictedChange": 0.0,
+                "estimatedTmv": False,
+                "gasGuzzlerTax": 0.0,
+                "regionalAdjustment": {
+                    "deliveryCharges": 0.0,
+                    "tmvRecommendedRating": 0,
+                    "usedPrivateParty": -207.0,
+                    "usedTmvRetail": -229.0,
+                    "baseMSRP": 0.0,
+                    "usedAuction": -176.0,
+                    "tmv": 0.0,
+                    "usedTradeIn": -183.0,
+                    "baseInvoice": 0.0
+                },
+                "incentivesAndRebates": 0.0,
+                "certifiedUsedPrice": 0.0
+            }
+        }
+    }
+}
+====
+{
+    "id": "TD2Z7K5G",
+    "isEligible": true,
+    "reason": "",
+    "lastQuote": {
+        "quoteId": "YM9Y5C2F",
+        "visitorId": null,
+        "ciamId": null,
+        "storeId": "7128",
+        "sourceSystem": "edmunds",
+        "code": "YM9Y5C2F",
+        "vin": "SALVP2RX1JH284344",
+        "make": "Land Rover",
+        "model": "Range Rover Evoque",
+        "year": 2018,
+        "trim": "SE",
+        "bodyStyle": "4D Sport Utility",
+        "mileage": 47000,
+        "styleCode": "MyfRWQ3",
+        "transmission": "Automatic",
+        "drive": "4WD",
+        "zipCode": "60194",
+        "exteriorColorCode": 99,
+        "standardOptions": [
+            "1511",
+            "1516",
+            "9550",
+            "1513",
+            "6310",
+            "6160",
+            "2180",
+            "2050",
+            "2121",
+            "3040",
+            "3073",
+            "6340",
+            "9138",
+            "1010",
+            "4020",
+            "3070",
+            "1020",
+            "2110",
+            "9137",
+            "6330",
+            "9755",
+            "6270",
+            "4069",
+            "2160",
+            "4137"
+        ],
+        "availableOptions": [
+            "6161",
+            "3101"
+        ],
+        "conditionQuestions": [
+            {
+                "id": 300,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 410,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 420,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 500,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 600,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 830,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 910,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 920,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 1000,
+                "answers": [
+                    1
+                ]
+            }
+        ],
+        "valuation": 0,
+        "createdDateUtc": "2023-02-07T17:22:19.6710074Z",
+        "expiresDateUtc": "2023-02-15T08:00:00Z",
+        "expiresDisplayDate": "02/14/2023",
+        "appointmentUri": "https://www.carmax.com/activity/appointment/third-party-appraisal?storeid=7128&appraisalcode=YM9Y5C2F&source=lg_aff_edm&utm_medium=affiliate&utm_content=appraisal",
+        "expressDropoffUri": "",
+        "atHomePickupUri": "",
+        "redemptionCertificateUri": "https://www.carmax.com/activity/appointment/third-party-appraisal-certificate?storeid=7128&appraisalcode=YM9Y5C2F",
+        "declineReason": "VIN SALVP2RX1JH284344 found in blacklist (source: yipit_autotrader)",
+        "isPicsyEligible": false,
+        "metaData": {
+            "interior_color": "Almond/Espresso",
+            "edmunds_style_id": "401745246",
+            "sem_campaign": "false",
+            "remote_host_request_id": "EVAL-1950",
+            "remote_host_client_id": "dxlUYlsf36j4/KqXOODSQtxA5zlAo1XwPEb17r5HBSM=",
+            "edmunds-Condition-Input": "Average",
+            "edmunds_make_name": "Land Rover",
+            "edmunds_model_name": "Range Rover Evoque",
+            "edmunds_year": "2018",
+            "edmunds-Outstanding": "24232",
+            "edmunds-Clean": "23791",
+            "edmunds-Average": "23056",
+            "edmunds-Final-TMV-Value": "23056",
+            "edmunds-Rough": "22100",
+            "ab_test": "EMO-695:ctrl"
+        }
+    }
+}
+
+
+
+=====
+{
+    "id": "TD3N3L7X",
+    "isEligible": True,
+    "reason": "",
+    "lastQuote": {
+        "quoteId": "TD2Z7K5G",
+        "visitorId": None,
+        "ciamId": None,
+        "storeId": "7128",
+        "sourceSystem": "edmunds",
+        "code": "TD2Z7K5G",
+        "vin": "SALVP2RX1JH284344",
+        "make": "Land Rover",
+        "model": "Range Rover Evoque",
+        "year": 2018,
+        "trim": "SE",
+        "bodyStyle": "4D Sport Utility",
+        "mileage": 47000,
+        "styleCode": "MyfRWQ3",
+        "transmission": "Automatic",
+        "drive": "4WD",
+        "zipCode": "60194",
+        "exteriorColorCode": 99,
+        "standardOptions": [
+            "1511",
+            "1516",
+            "9550",
+            "1513",
+            "6310",
+            "6160",
+            "2180",
+            "2050",
+            "2121",
+            "3040",
+            "3073",
+            "6340",
+            "9138",
+            "1010",
+            "4020",
+            "3070",
+            "1020",
+            "2110",
+            "9137",
+            "6330",
+            "9755",
+            "6270",
+            "4069",
+            "2160",
+            "4137"
+        ],
+        "availableOptions": [],
+        "conditionQuestions": [
+            {
+                "id": 300,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 410,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 420,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 500,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 600,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 830,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 910,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 920,
+                "answers": [
+                    1
+                ]
+            },
+            {
+                "id": 1000,
+                "answers": [
+                    1
+                ]
+            }
+        ],
+        "valuation": 0,
+        "createdDateUtc": "2023-02-08T02: 55: 03.2782735Z",
+        "expiresDateUtc": "2023-02-16T08: 00: 00Z",
+        "expiresDisplayDate": "02/15/2023",
+        "appointmentUri": "https: //www.carmax.com/activity/appointment/third-party-appraisal?storeid=7128&appraisalcode=TD2Z7K5G&source=lg_aff_edm&utm_medium=affiliate&utm_content=appraisal",
+        "expressDropoffUri": "",
+        "atHomePickupUri": "",
+        "redemptionCertificateUri": "https://www.carmax.com/activity/appointment/third-party-appraisal-certificate?storeid=7128&appraisalcode=TD2Z7K5G",
+        "declineReason": "VIN SALVP2RX1JH284344 found in blacklist (source: yipit_autotrader)",
+        "isPicsyEligible": False,
+        "metaData": {
+            "interior_color": "Ebony",
+            "edmunds_style_id": "401745246",
+            "sem_campaign": "false",
+            "remote_host_request_id": "EVAL-1950",
+            "remote_host_client_id": "dxlUYlsf36j4/KqXOODSQtxA5zlAo1XwPEb17r5HBSM=",
+            "edmunds-Condition-Input": "Average",
+            "edmunds_make_name": "Land Rover",
+            "edmunds_model_name": "Range Rover Evoque",
+            "edmunds_year": "2018",
+            "edmunds-Outstanding": "22516",
+            "edmunds-Clean": "22107",
+            "edmunds-Average": "21424",
+            "edmunds-Final-TMV-Value": "21424",
+            "edmunds-Rough": "20536",
+            "ab_test": "EMO-695:ctrl"
+        }
+    }
+}
+=====
+['width=device-width, initial-scale=1, shrink-to-fit=no', '5sTg0pJ74Mh07K0zrb8BJbXRDZZzbGf0lTI49LcF', 
+'index,follow', 
+'index,follow', 
+'AllCars makes it easy to trade-in or sell your car to us. Fill out a form with some basic information. Receive a fair offer for your vehicle. Pickups are free!', '0udygqkvnetz0n0opuhmvnodesphsz']
